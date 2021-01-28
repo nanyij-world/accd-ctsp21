@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Creative Tech Spring21 Notes
 
 You can use the [editor on GitHub](https://github.com/nanyij-world/ACCD-CT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
