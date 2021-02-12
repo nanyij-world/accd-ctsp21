@@ -6,5 +6,4 @@ Trials in making smaller parts work before connecting them to the chain.
 
 ## Week1
 Brainstorming on possible individual events to be connected to a larger chain of events.  
-![Image](https://drive.google.com/file/d/1u5SMEdKwKlDhA1pzOXWIAaikLdO5k3sM/view?usp=sharing)
-
+![brainstorm]](images/brainstorm.png)
