@@ -6,4 +6,4 @@ Trials in making smaller parts work before connecting them to the chain.
 
 ## Week1
 Brainstorming on possible individual events to be connected to a larger chain of events.  
-![brainstorm](nanyij-world/accd-ctsp21/docs/brainstorm.png)
+![brainstorm](brainstorm.png)
