@@ -1,7 +1,6 @@
-## Week1
+## Week2
 
 Project Proposal and system diagram.
 
-## Week2
-
-Simple web application
+## Week1
+Brainstorming on possible individual events to be connected to a larger chain of events.  
