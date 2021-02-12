@@ -1,6 +1,6 @@
 ## Week2
 
-Project Proposal and system diagram.
+Trials in making smaller parts work before connecting them to the chain. 
 
 ## Week1
 Brainstorming on possible individual events to be connected to a larger chain of events.  
