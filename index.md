@@ -25,7 +25,6 @@ Structure:
 <img width="1098" alt="Screen Shot 2021-04-23 at 11 25 03 PM" src="https://user-images.githubusercontent.com/59493899/115893883-4467e100-a48b-11eb-9612-0de1350ad4e0.png">
 
 
-
 ## Project 3: Cat Hair Weapon Lab
 Cat Hair Weapon lab tends to question the intersection of cute design and its possible danger. The making space catches scenes when a maker is cleaning, sorting and preparing cat hair as material for weapon.
 <iframe src="https://player.vimeo.com/video/533523317" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -81,9 +80,17 @@ This thought inspired to think to use programming in design to make more customi
 
 ## Week2
 ###### Chapter 7 "Unfortunate Shortcuts" from Janelle Shane, You Look Like a Thing and I Love You
-> Quote1: ""
-> Quote2: ""
-> Quote3: ""
+> Quote1: "This is another example of overfitting, since the AIs would be surprised to find that their tricks only work in their simulations, not in the real world....Remember that it’s really hard to make a simulation detailed enough to allow a machine learning algorithm’s strategies to work both in the simulation and in real life."
+
+As AI and machine learning is dependent on the data input and what defined by the engineer or designer that create it, the outcome of Ai can be controversial due to overdrafting.  This quote inspired a series of questions: is it even possible to really capture all the features and data of the real world? Is there a single answer/reaction to questions even in real world? If not, how should AI react to that?
+
+> Quote2: "When using AIs to solve real-world problems, we also need to take a close look at what is being predicted. There’s a kind of algorithm called predictive policing, which looks at past police records and tries to predict where and when crimes will be recorded in the future."
+
+As the data input to AI is always relatively "past", it brings a past of human society into the algorithm, together with the existing biases and social problems like gender and race stereotypes. Thus, how to use AI in a positively way to predict a future society? Should components like diminishing steretypical behaviors to be counted into the algorithms? Who decide what is the input into the algorithm then?
+
+> Quote3: "It’s a bit like checking the work of a colleague—a very, very strange colleague. ... AI is like a human brain and some ways in which it’s very different. "
+
+An 
 
 ## Week3
 ###### Joyce Carol Oates, Notes on Failure, AI Ethics Case studies
