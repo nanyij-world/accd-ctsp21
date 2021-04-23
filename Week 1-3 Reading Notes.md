@@ -1,3 +1,4 @@
+# Week 1-3 Reading Notes
 ## Week1 Reading
 ###### Rune Madsen, Programming Design Systems
 > Quote1: " Digital products are displayed on screens of different sizes and with dynamic content. Digital products allow users to interact with their content, and take advantage of motion and animation. Furthermore, digital products often have temporal logic where a linear narrative is replaced by a set of complex states and transitions. All in all, digital products all share a common trait: They are created with programming languages."
