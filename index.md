@@ -23,7 +23,9 @@ View in Touch Designer:
 <iframe src="https://player.vimeo.com/video/540540591" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+Structure:
 <img width="1098" alt="Screen Shot 2021-04-23 at 11 25 03 PM" src="https://user-images.githubusercontent.com/59493899/115893883-4467e100-a48b-11eb-9612-0de1350ad4e0.png">
+
 
 
 ## Project 3: Cat Hair Weapon Lab
