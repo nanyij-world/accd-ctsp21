@@ -1,3 +1,47 @@
+# Week 1 - 3
+
+## Project 1: The Web as a Rube Goldberg Machine - A Zoom Party!
+
+<img width="784" alt="Screen Shot 2021-04-23 at 3 41 31 PM" src="https://user-images.githubusercontent.com/59493899/115888707-ce14b000-a485-11eb-8a29-8758cc0a78f5.png">
+
+Our final chain of evets are following this system diagram: 
+
+<img width="1006" alt="Screen Shot 2021-04-23 at 3 40 49 PM" src="https://user-images.githubusercontent.com/59493899/115836783-7b69d280-a44a-11eb-8bf7-ed7f62de2fb9.png">
+
+Trials in making smaller parts work before connecting them to the chain. 
+<img width="1041" alt="Screen Shot 2021-04-23 at 3 41 05 PM" src="https://user-images.githubusercontent.com/59493899/115836802-80c71d00-a44a-11eb-86a2-ebc14080ea60.png">
+
+<img width="438" alt="Screen Shot 2021-04-23 at 3 41 00 PM" src="https://user-images.githubusercontent.com/59493899/115836823-84f33a80-a44a-11eb-887b-0b23000b3421.png">
+
+
+Brainstorming on possible individual events to be connected to a larger chain of events.  
+![brainstorm](/images/brainstorm.png)
+
+## [Week 1-3 Reading Notes](https://nanyij-world.github.io/accd-ctsp21/Week%201-3%20Reading%20Notes)
+
+
+# Week 4 - 6
+## Project 2: Rate My Setup: An Enchanting Forest
+Sample usage via OBS:
+<iframe src="https://player.vimeo.com/video/540744970" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Scanned models and sample textures: 
+![photogrammetrey](https://user-images.githubusercontent.com/59493899/115913877-c532d700-a4a3-11eb-909f-4e7b11f237a2.png)
+
+## [Week 4-6 Reading Notes](https://nanyij-world.github.io/accd-ctsp21/Week%201-3%20Reading%20Notes)
+
+# Week 8 - 10
+## Project 3: Cat Hair Weapon Lab
+Cat Hair Weapon lab tends to question the intersection of cute design and its possible danger. The making space catches scenes when a maker is cleaning, sorting and preparing cat hair as material for weapon.
+<iframe src="https://player.vimeo.com/video/533523317" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Planning:
+<img width="784" alt="Screen Shot 2021-04-23 at 3 34 15 PM" src="https://user-images.githubusercontent.com/59493899/115835904-6d678200-a449-11eb-92cd-69441f20196e.png">
+
+First Attempt and Prototype:
+
+<img width="729" alt="Screen Shot 2021-04-23 at 3 34 31 PM" src="https://user-images.githubusercontent.com/59493899/115835923-71939f80-a449-11eb-8482-f0a876f0acc7.png">
+
 # Week 11 - 13 
 ## Project 4: An Emotional Circle
 This project is to explore interactive projection mapping though using Touch Designer and Leap Motion.
@@ -23,65 +67,3 @@ View in Touch Designer:
 
 Structure:
 <img width="1098" alt="Screen Shot 2021-04-23 at 11 25 03 PM" src="https://user-images.githubusercontent.com/59493899/115893883-4467e100-a48b-11eb-9612-0de1350ad4e0.png">
-
-# Week 8 - 10
-## Project 3: Cat Hair Weapon Lab
-Cat Hair Weapon lab tends to question the intersection of cute design and its possible danger. The making space catches scenes when a maker is cleaning, sorting and preparing cat hair as material for weapon.
-<iframe src="https://player.vimeo.com/video/533523317" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-Planning:
-<img width="784" alt="Screen Shot 2021-04-23 at 3 34 15 PM" src="https://user-images.githubusercontent.com/59493899/115835904-6d678200-a449-11eb-92cd-69441f20196e.png">
-
-First Attempt and Prototype:
-
-<img width="729" alt="Screen Shot 2021-04-23 at 3 34 31 PM" src="https://user-images.githubusercontent.com/59493899/115835923-71939f80-a449-11eb-8482-f0a876f0acc7.png">
-
-# Week 4 - 6
-## Project 2: Rate My Setup: An Enchanting Forest
-Sample usage via OBS:
-<iframe src="https://player.vimeo.com/video/540744970" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-Scanned models and sample textures: 
-![photogrammetrey](https://user-images.githubusercontent.com/59493899/115913877-c532d700-a4a3-11eb-909f-4e7b11f237a2.png)
-
-## Week4 Reading
-### Chapter 2 "A Brief Visit to the Systems Zoo" from Thinking in Systems by Donella H. Meadows
-> Quote1: ""
-> Quote2: ""
-> Quote3: ""
-
-## Week5 Reading
-###### reading Petri Dish, Chapter 3, "Design as the Machines Come to Life" from Synthetic Aesthtics
-> Quote1: ""
-> Quote2: ""
-> Quote3: ""
-
-## Week6 Reading
-###### "Ruined by Design" by Mike Monteiro: "Moving Fast and Breaking Things", "All the White Boys in the Room", "Choosing Where to Work", "How to Set up for Success" and "Oh, the Monsters We'll Kill".
-> Quote1: ""
-> Quote2: ""
-> Quote3: ""
-
-# Week 1 - 3
-
-## Project 1: The Web as a Rube Goldberg Machine - A Zoom Party!
-
-<img width="784" alt="Screen Shot 2021-04-23 at 3 41 31 PM" src="https://user-images.githubusercontent.com/59493899/115888707-ce14b000-a485-11eb-8a29-8758cc0a78f5.png">
-
-Our final chain of evets are following this system diagram: 
-
-<img width="1006" alt="Screen Shot 2021-04-23 at 3 40 49 PM" src="https://user-images.githubusercontent.com/59493899/115836783-7b69d280-a44a-11eb-8bf7-ed7f62de2fb9.png">
-
-Trials in making smaller parts work before connecting them to the chain. 
-<img width="1041" alt="Screen Shot 2021-04-23 at 3 41 05 PM" src="https://user-images.githubusercontent.com/59493899/115836802-80c71d00-a44a-11eb-86a2-ebc14080ea60.png">
-
-<img width="438" alt="Screen Shot 2021-04-23 at 3 41 00 PM" src="https://user-images.githubusercontent.com/59493899/115836823-84f33a80-a44a-11eb-887b-0b23000b3421.png">
-
-
-Brainstorming on possible individual events to be connected to a larger chain of events.  
-![brainstorm](/images/brainstorm.png)
-
-[Reading Notes](https://nanyij-world.github.io/accd-ctsp21/Week%201-3%20Reading%20Notes)
-
-
-
