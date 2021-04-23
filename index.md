@@ -9,7 +9,7 @@
 # Week 4 - 6
 ## [Project 2: Rate My Setup: An Enchanting Forest](https://nanyij-world.github.io/accd-ctsp21/Project2%20)
 
-## [Week 4-6 Reading Notes](https://nanyij-world.github.io/accd-ctsp21/Week%201-3%20Reading%20Notes)
+## [Week 4-6 Reading Notes](https://nanyij-world.github.io/accd-ctsp21/Week%204-6%20Reading%20Notes)
 
 # Week 8 - 10
 ## [Project 3: Cat Hair Weapon Lab](https://nanyij-world.github.io/accd-ctsp21/Project3%20)
