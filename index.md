@@ -4,17 +4,17 @@ This project is to explore interactive projection mapping though using Touch Des
 
 Components: 
 
-*Video and Mapping: TouchDesigner, Projector
+* Video and Mapping: TouchDesigner, Projector
 
-*Leap Motion: Hand Gesture to control the two states
-*Hand state: open or close 
-  *Open: music start 
-  *Close: music stop 
-  *Hand position: x,y,z
-  *Change of colors (use x as input for R parameter)
-  *Change of position of the shape.
+* Leap Motion: Hand Gesture to control the two states
+* Hand state: open or close 
+  * Open: music start 
+  * Close: music stop 
+  * Hand position: x,y,z
+  * Change of colors (use x as input for R parameter)
+  * Change of position of the shape.
 
-*Audio In: make the visual more interactive 
+* Audio In: make the visual more interactive 
 
 
 <div style="padding:57.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/540536891?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -77,3 +77,36 @@ Brainstorming on possible individual events to be connected to a larger chain of
 ![brainstorm](/images/brainstorm.png)
 
 # Reading Notes
+
+## Week1
+### Rune Madsen, Programming Design Systems
+Quote1: ""
+Quote2: ""
+
+## Week2
+### Chapter 7 "Unfortunate Shortcuts" from Janelle Shane, You Look Like a Thing and I Love You
+Quote1: ""
+Quote2: ""
+
+## Week3
+### Joyce Carol Oates, Notes on Failure, AI Ethics Case studies
+Quote1: ""
+Quote2: ""
+
+## Week4
+### Chapter 2 "A Brief Visit to the Systems Zoo" from Thinking in Systems by Donella H. Meadows
+Quote1: ""
+Quote2: ""
+
+## Week5
+### reading Petri Dish, Chapter 3, "Design as the Machines Come to Life" from Synthetic Aesthtics
+Quote1: ""
+Quote2: ""
+
+## Week6
+### "Ruined by Design" by Mike Monteiro: "Moving Fast and Breaking Things", "All the White Boys in the Room", "Choosing Where to Work", "How to Set up for Success" and "Oh, the Monsters We'll Kill".
+
+Quote1: ""
+Quote2: ""
+
+
