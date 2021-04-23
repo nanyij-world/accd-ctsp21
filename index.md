@@ -2,10 +2,9 @@
 ## Project 4: An Emotional Circle
 This project is to explore interactive projection mapping though using Touch Designer and Leap Motion.
 
-Components: 
+### Components: 
 
 * Video and Mapping: TouchDesigner, Projector
-
 * Leap Motion: Hand Gesture to control the two states
 * Hand state: open or close 
   * Open: music start 
@@ -13,7 +12,6 @@ Components:
   * Hand position: x,y,z
   * Change of colors (use x as input for R parameter)
   * Change of position of the shape.
-
 * Audio In: make the visual more interactive 
 
 
@@ -40,6 +38,8 @@ First Attempt and Prototype
 <img width="729" alt="Screen Shot 2021-04-23 at 3 34 31 PM" src="https://user-images.githubusercontent.com/59493899/115835923-71939f80-a449-11eb-8482-f0a876f0acc7.png">
 
 ## Project 2: Rate My Setup
+
+<iframe src="https://player.vimeo.com/video/540744970" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Scanned models: 
 <img width="547" alt="Screen Shot 2021-04-23 at 3 37 31 PM" src="https://user-images.githubusercontent.com/59493899/115836297-e5ce4300-a449-11eb-8aae-b6a7e9151020.png">
@@ -80,8 +80,11 @@ Brainstorming on possible individual events to be connected to a larger chain of
 
 ## Week1
 ### Rune Madsen, Programming Design Systems
-Quote1: ""
-Quote2: ""
+> Quote1: " Digital products are displayed on screens of different sizes and with dynamic content. Digital products allow users to interact with their content, and take advantage of motion and animation. Furthermore, digital products often have temporal logic where a linear narrative is replaced by a set of complex states and transitions. All in all, digital products all share a common trait: They are created with programming languages."
+
+> Quote2: "Design systems offer a different way of thinking, where the designer is forced to consider many scenarios and constraints instead of relying on a one-off design process. "
+
+Quote3: ""
 
 ## Week2
 ### Chapter 7 "Unfortunate Shortcuts" from Janelle Shane, You Look Like a Thing and I Love You
