@@ -4,9 +4,7 @@ This project is to explore interactive projection mapping though using Touch Des
 
 <div style="padding:57.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/540536891?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-https://user-images.githubusercontent.com/59493899/115836041-9556e580-a449-11eb-8e1f-5d842273486f.mov
-
-
+<iframe src="https://player.vimeo.com/video/540540591" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Project 3: Cat Hair Weapon Lab
@@ -27,9 +25,21 @@ Scanned models:
 
 <img width="380" alt="Screen Shot 2021-04-23 at 3 37 45 PM" src="https://user-images.githubusercontent.com/59493899/115836304-e7980680-a449-11eb-97a7-608752fbc968.png">
 
+<img width="526" alt="Screen Shot 2021-04-23 at 3 49 40 PM" src="https://user-images.githubusercontent.com/59493899/115888256-4c248700-a485-11eb-9788-47a35cd31f2c.png">
+
+
+Sample Texture:
+
+<img width="860" alt="Screen Shot 2021-04-23 at 3 51 45 PM" src="https://user-images.githubusercontent.com/59493899/115888219-42028880-a485-11eb-9302-54834d156d0d.png">
+
+<img width="869" alt="Screen Shot 2021-04-23 at 3 51 31 PM" src="https://user-images.githubusercontent.com/59493899/115888227-43cc4c00-a485-11eb-8e00-a91127a4f997.png">
+
+<img width="869" alt="Screen Shot 2021-04-23 at 3 51 12 PM" src="https://user-images.githubusercontent.com/59493899/115888238-462ea600-a485-11eb-9d26-5294c7f4f12e.png">
+
 ## Project 1: The Web as a Rube Goldberg Machine - A Zoom Party!
 
-[Uploading Screen Shot 2021-04-23 at 3.41.31 PM.png…]()
+
+<img width="784" alt="Screen Shot 2021-04-23 at 3 41 31 PM" src="https://user-images.githubusercontent.com/59493899/115888707-ce14b000-a485-11eb-8a29-8758cc0a78f5.png">
 
 
 Our final chain of evets are following this system diagram: 
