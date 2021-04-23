@@ -28,7 +28,6 @@ Structure:
 
 ## Project 3: Cat Hair Weapon Lab
 Cat Hair Weapon lab tends to question the intersection of cute design and its possible danger. The making space catches scenes when a maker is cleaning, sorting and preparing cat hair as material for weapon.
-
 <iframe src="https://player.vimeo.com/video/533523317" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Planning:
@@ -37,25 +36,13 @@ Planning:
 First Attempt and Prototype
 <img width="729" alt="Screen Shot 2021-04-23 at 3 34 31 PM" src="https://user-images.githubusercontent.com/59493899/115835923-71939f80-a449-11eb-8482-f0a876f0acc7.png">
 
-## Project 2: Rate My Setup
+## Project 2: Rate My Setup: An Enchanting Forest
 
 <iframe src="https://player.vimeo.com/video/540744970" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Scanned models: 
-<img width="547" alt="Screen Shot 2021-04-23 at 3 37 31 PM" src="https://user-images.githubusercontent.com/59493899/115836297-e5ce4300-a449-11eb-8aae-b6a7e9151020.png">
+Scanned models and sample textures: 
+![photogrammetrey](https://user-images.githubusercontent.com/59493899/115913877-c532d700-a4a3-11eb-909f-4e7b11f237a2.png)
 
-<img width="380" alt="Screen Shot 2021-04-23 at 3 37 45 PM" src="https://user-images.githubusercontent.com/59493899/115836304-e7980680-a449-11eb-97a7-608752fbc968.png">
-
-<img width="526" alt="Screen Shot 2021-04-23 at 3 49 40 PM" src="https://user-images.githubusercontent.com/59493899/115888256-4c248700-a485-11eb-9788-47a35cd31f2c.png">
-
-
-Sample Texture:
-
-<img width="860" alt="Screen Shot 2021-04-23 at 3 51 45 PM" src="https://user-images.githubusercontent.com/59493899/115888219-42028880-a485-11eb-9302-54834d156d0d.png">
-
-<img width="869" alt="Screen Shot 2021-04-23 at 3 51 31 PM" src="https://user-images.githubusercontent.com/59493899/115888227-43cc4c00-a485-11eb-8e00-a91127a4f997.png">
-
-<img width="869" alt="Screen Shot 2021-04-23 at 3 51 12 PM" src="https://user-images.githubusercontent.com/59493899/115888238-462ea600-a485-11eb-9d26-5294c7f4f12e.png">
 
 ## Project 1: The Web as a Rube Goldberg Machine - A Zoom Party!
 
@@ -79,37 +66,44 @@ Brainstorming on possible individual events to be connected to a larger chain of
 # Reading Notes
 
 ## Week1
-### Rune Madsen, Programming Design Systems
+###### Rune Madsen, Programming Design Systems
 > Quote1: " Digital products are displayed on screens of different sizes and with dynamic content. Digital products allow users to interact with their content, and take advantage of motion and animation. Furthermore, digital products often have temporal logic where a linear narrative is replaced by a set of complex states and transitions. All in all, digital products all share a common trait: They are created with programming languages."
+This quote reminds me of the importancfe of design in flexible format such as coding in order to keep the outfput to be able to suite different occassions in th digital age. Also, it sounds like making design digital helps it live longer. Then the question comes: when keeping design digital makes them easier to store and become malleable to different needs, how do the value and surprises from physical design keeping lost in this process?
 
 > Quote2: "Design systems offer a different way of thinking, where the designer is forced to consider many scenarios and constraints instead of relying on a one-off design process. "
+I really resonate with this way of thinking design due to my background in economics and math instead of a desing/art background. I was thinking to solve problems in functions instead of one point. It allows me to code easire, but I do think the other way around offers new angles to design. Flexiblly using these two different methods can be helpful and inspring.
 
-Quote3: ""
+> Quote3: " Software can be written to allow a range of possible outputs, and variations of a design system can be generated in (literally) fractions of a second. "
+This thought inspired to think to use programming in design to make more customizable future possible, for both digital and physical products. Via programming and setting variables, customers can have more personal touch in choosing their products.
 
 ## Week2
-### Chapter 7 "Unfortunate Shortcuts" from Janelle Shane, You Look Like a Thing and I Love You
-Quote1: ""
-Quote2: ""
+###### Chapter 7 "Unfortunate Shortcuts" from Janelle Shane, You Look Like a Thing and I Love You
+> Quote1: ""
+> Quote2: ""
+> Quote3: ""
 
 ## Week3
-### Joyce Carol Oates, Notes on Failure, AI Ethics Case studies
-Quote1: ""
-Quote2: ""
+###### Joyce Carol Oates, Notes on Failure, AI Ethics Case studies
+> Quote1: ""
+> Quote2: ""
+> Quote3: ""
 
 ## Week4
 ### Chapter 2 "A Brief Visit to the Systems Zoo" from Thinking in Systems by Donella H. Meadows
-Quote1: ""
-Quote2: ""
+> Quote1: ""
+> Quote2: ""
+> Quote3: ""
 
 ## Week5
-### reading Petri Dish, Chapter 3, "Design as the Machines Come to Life" from Synthetic Aesthtics
-Quote1: ""
-Quote2: ""
+###### reading Petri Dish, Chapter 3, "Design as the Machines Come to Life" from Synthetic Aesthtics
+> Quote1: ""
+> Quote2: ""
+> Quote3: ""
 
 ## Week6
-### "Ruined by Design" by Mike Monteiro: "Moving Fast and Breaking Things", "All the White Boys in the Room", "Choosing Where to Work", "How to Set up for Success" and "Oh, the Monsters We'll Kill".
-
-Quote1: ""
-Quote2: ""
+###### "Ruined by Design" by Mike Monteiro: "Moving Fast and Breaking Things", "All the White Boys in the Room", "Choosing Where to Work", "How to Set up for Success" and "Oh, the Monsters We'll Kill".
+> Quote1: ""
+> Quote2: ""
+> Quote3: ""
 
 
