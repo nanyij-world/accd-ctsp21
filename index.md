@@ -37,7 +37,7 @@ First Attempt and Prototype
 <img width="729" alt="Screen Shot 2021-04-23 at 3 34 31 PM" src="https://user-images.githubusercontent.com/59493899/115835923-71939f80-a449-11eb-8482-f0a876f0acc7.png">
 
 ## Project 2: Rate My Setup: An Enchanting Forest
-
+Sample usage via OBS:
 <iframe src="https://player.vimeo.com/video/540744970" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Scanned models and sample textures: 
@@ -68,12 +68,15 @@ Brainstorming on possible individual events to be connected to a larger chain of
 ## Week1
 ###### Rune Madsen, Programming Design Systems
 > Quote1: " Digital products are displayed on screens of different sizes and with dynamic content. Digital products allow users to interact with their content, and take advantage of motion and animation. Furthermore, digital products often have temporal logic where a linear narrative is replaced by a set of complex states and transitions. All in all, digital products all share a common trait: They are created with programming languages."
+
 This quote reminds me of the importancfe of design in flexible format such as coding in order to keep the outfput to be able to suite different occassions in th digital age. Also, it sounds like making design digital helps it live longer. Then the question comes: when keeping design digital makes them easier to store and become malleable to different needs, how do the value and surprises from physical design keeping lost in this process?
 
 > Quote2: "Design systems offer a different way of thinking, where the designer is forced to consider many scenarios and constraints instead of relying on a one-off design process. "
+
 I really resonate with this way of thinking design due to my background in economics and math instead of a desing/art background. I was thinking to solve problems in functions instead of one point. It allows me to code easire, but I do think the other way around offers new angles to design. Flexiblly using these two different methods can be helpful and inspring.
 
 > Quote3: " Software can be written to allow a range of possible outputs, and variations of a design system can be generated in (literally) fractions of a second. "
+
 This thought inspired to think to use programming in design to make more customizable future possible, for both digital and physical products. Via programming and setting variables, customers can have more personal touch in choosing their products.
 
 ## Week2
